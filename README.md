@@ -4,12 +4,12 @@
 
 Personal bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 This bucket contains a small selection of tools that are not in the official Scoop buckets.
-
+To add bucket, type `scoop bucket add MrXcitement https://github.com/MrXcitement/ScoopBucket` from Powershell.
 
 Tool | Description | Website
 -- | -- | --
-pipx | A utility to install Python programs as standalone apps | https://pypa.github.io/pipx/
-
+[pipx](./bucket/pipx.json) | A utility to install Python programs as standalone apps | https://pypa.github.io/pipx/
+[johns-background-switcher](./bucket/johns-background-switcher.json) | John’s Background Switcher: periodically changes the background image on your Windows computer to something awesome | https://johnsad.ventures/software/backgroundswitcher/windows/
 
 ## How do I install these manifests?
 
