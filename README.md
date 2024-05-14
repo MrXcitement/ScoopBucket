@@ -4,7 +4,6 @@
 
 Personal bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 This bucket contains a small selection of tools that are not in the official Scoop buckets.
-To add bucket, type `scoop bucket add MrXcitement https://github.com/MrXcitement/ScoopBucket` from Powershell.
 
 Tool | Description | Website
 -- | -- | --
@@ -16,8 +15,8 @@ Tool | Description | Website
 After manifests have been committed and pushed, run the following:
 
 ```pwsh
-scoop bucket add ScoopBucket https://github.com/mrxcitement/ScoopBucket
-scoop install ScoopBucket/<manifestname>
+scoop bucket add MrXcitement https://github.com/MrXcitement/ScoopBucket
+scoop install MrXcitement/<manifestname>
 ```
 
 ## How do I contribute new manifests?
