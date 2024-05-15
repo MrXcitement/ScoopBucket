@@ -1,9 +1,9 @@
-# Scoop Bucket Template
+# MrXcitement's Scoop Bucket
 
 [![Tests](https://github.com/mrxcitement/ScoopBucket/actions/workflows/ci.yml/badge.svg)](https://github.com/mrxcitement/ScoopBucket/actions/workflows/ci.yml) [![Excavator](https://github.com/mrxcitement/ScoopBucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/mrxcitement/ScoopBucket/actions/workflows/excavator.yml)
 
 Personal bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
-This bucket contains a small selection of tools that are not in the official Scoop buckets.
+This bucket contains a *small* selection of tools that are not in the official Scoop buckets.
 
 Tool | Description | Website
 -- | -- | --
